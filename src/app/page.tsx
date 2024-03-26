@@ -20,12 +20,6 @@ export default function Home() {
                   <Image src="/notion.png" alt="/"  className="animate-bounce"  width={40} height={40}/>
                 </div>
             </div> 
-
-
-
-
-
-
          <div className="flex flex-wrap items-center justify-center flex-col md:flex-row gap-8 mt-10">
           <CardContainer className="inter-var p-2">
             <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-neutral-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-full md:!w-[350px] h-auto rounded-xl p-6 border">
@@ -95,11 +89,11 @@ export default function Home() {
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    100 tasks per month
+                    1000 tasks per month
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    Two-step Actions
+                    Three-step Actions
                   </li>
                 </ul>
               </CardItem>
@@ -142,11 +136,11 @@ export default function Home() {
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    100 tasks per month
+                    1lakh+ tasks per month
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckIcon />
-                    Two-step Actions
+                    Youwant-step Actions
                   </li>
                 </ul>
               </CardItem>
